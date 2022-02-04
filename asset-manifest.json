@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ts-npm-package-search/static/css/main.e6c13ad2.css",
+    "main.js": "/react-ts-npm-package-search/static/js/main.99877b3e.js",
+    "static/js/787.bb91bf06.chunk.js": "/react-ts-npm-package-search/static/js/787.bb91bf06.chunk.js",
+    "index.html": "/react-ts-npm-package-search/index.html",
+    "main.e6c13ad2.css.map": "/react-ts-npm-package-search/static/css/main.e6c13ad2.css.map",
+    "main.99877b3e.js.map": "/react-ts-npm-package-search/static/js/main.99877b3e.js.map",
+    "787.bb91bf06.chunk.js.map": "/react-ts-npm-package-search/static/js/787.bb91bf06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.99877b3e.js"
+  ]
+}
