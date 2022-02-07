@@ -15,8 +15,12 @@ const RepositoriesList: React.FC = () => {
 
     return <div >
         <form onSubmit={onSubmit}> 
-            <input value={term} onChange={(e) => setTerm(e.target.value)} />
-            <button>Search</button>
+            <div className="input-group mb-3">
+                <input className="form-control" value={term} onChange={(e) => setTerm(e.target.value)} />
+                <div className="input-group-append">
+                    <button className="btn btn-outline-secondary" type="submit">Button</button>
+                </div>
+            </div>
         </form>
         {error && <h3>{error}</h3>}
         {loading && <h3>Loading...</h3>}
